@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D golden crown resting on one coral-red apple, centered, deep plum radial gradient background, crisp, high contrast, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, deep plum night orchard, very dark moody purple, soft bokeh lights, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, royal orchard keeper character under glowing fruit trees, vibrant plum coral and gold palette, 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred plum orchard, very low contrast for UI overlay, dark purple haze, no text, no UI elements"
+    },
+    {
+      "name": "sprite_crown_fruit",
+      "type": "sprite",
+      "prompt": "One single glossy 3D golden crown on a coral apple, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_fruit_berry",
+      "type": "sprite",
+      "prompt": "One single cute cartoon coral-red berry, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_fruit_citrus",
+      "type": "sprite",
+      "prompt": "One single cute cartoon golden citrus fruit, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_fruit_lime",
+      "type": "sprite",
+      "prompt": "One single cute cartoon green lime, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_fruit_plum",
+      "type": "sprite",
+      "prompt": "One single cute cartoon deep-pink plum, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_leaf",
+      "type": "sprite",
+      "prompt": "One single glossy 3D green leaf, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background, coral to raspberry gradient, glossy, rounded, no text"
+    }
+  ]
+}
